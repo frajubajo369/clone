@@ -43,7 +43,7 @@ body{
  .filme-principal{
      
      font-size: 16px;
-     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("../img/casa de papel.jpg");
+     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("../img/casa de papel500.jpg");
 
      height: 600px;
      background-size:cover;
