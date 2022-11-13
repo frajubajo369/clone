@@ -9,33 +9,34 @@
 }
 body{
     background: var(--preta);
-    font-family:  'Times New Roman', Times, serif;
+    font-family:  'Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif';
     color:#ffffff;
 
 
 }
  header .container{
-     display: flex;
-      flex-direction: row;
-      align-items: center;
-      justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
      
+
   
     
 }
  header .Logo{
      margin: 5px;
      color:var(--vermelho);
-     font-family:"Gotham";
+     font-family:"Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif";
      font-size: 40px;
  }
- header, nav, a{
+ header nav a{
      text-decoration: none;
      color: #AAA;
-     margin-right: 10px;
-
+     margin-right: 20px;
+     
  }
- header, nav, a:hover{
+ header nav a:hover{
      color:#fff;
 
 }
@@ -65,7 +66,7 @@ body{
      margin-left: 15px;
      margin-top: 15%;
      font-size: 40px;
-     font-family:  'Trebuchet MS', Arial,sans-serif;
+     font-family:  'Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif' ;
  }
  .botao{
      background-color: rgba(0,0,0,.50);
@@ -93,5 +94,6 @@ body{
  .filme-principal .container{
      width: 70%;
  }
+ 
 
 
